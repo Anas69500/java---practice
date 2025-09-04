@@ -1,0 +1,187 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "fibonacci",
+            "request": "launch",
+            "mainClass": "praticequestion.fibonacci",
+            "projectName": "Java pratice_83307812"
+        },
+        {
+            "type": "java",
+            "name": "xPowern",
+            "request": "launch",
+            "mainClass": "praticequestion.xPowern",
+            "projectName": "Java pratice_83307812"
+        },
+        {
+            "type": "java",
+            "name": "CountInteger",
+            "request": "launch",
+            "mainClass": "praticequestion.CountInteger",
+            "projectName": "Java pratice_83307812"
+        },
+        {
+            "type": "java",
+            "name": "infiniteLoopDoWhile",
+            "request": "launch",
+            "mainClass": "praticequestion.infiniteLoopDoWhile",
+            "projectName": "Java pratice_83307812"
+        },
+        {
+            "type": "java",
+            "name": "checkingEligibleForVote",
+            "request": "launch",
+            "mainClass": "praticequestion.checkingEligibleForVote",
+            "projectName": "Java pratice_83307812"
+        },
+        {
+            "type": "java",
+            "name": "sumOfEvenNumber",
+            "request": "launch",
+            "mainClass": "praticequestion.sumOfEvenNumber",
+            "projectName": "Java pratice_83307812"
+        },
+        {
+            "type": "java",
+            "name": "circleCircumference",
+            "request": "launch",
+            "mainClass": "praticequestion.circleCircumference",
+            "projectName": "Java pratice_83307812"
+        },
+        {
+            "type": "java",
+            "name": "greaternumber",
+            "request": "launch",
+            "mainClass": "praticequestion.greaternumber",
+            "projectName": "Java pratice_83307812"
+        },
+        {
+            "type": "java",
+            "name": "oddNumber",
+            "request": "launch",
+            "mainClass": "praticequestion.oddNumber",
+            "projectName": "Java pratice_83307812"
+        },
+        {
+            "type": "java",
+            "name": "numberAverage",
+            "request": "launch",
+            "mainClass": "praticequestion.numberAverage",
+            "projectName": "Java pratice_83307812"
+        },
+        {
+            "type": "java",
+            "name": "ab",
+            "request": "launch",
+            "mainClass": "praticequestion.ab",
+            "projectName": "Java pratice_83307812"
+        },
+        {
+            "type": "java",
+            "name": "numberAverage",
+            "request": "launch",
+            "mainClass": "numberAverage",
+            "projectName": "Java pratice_83307812"
+        },
+        {
+            "type": "java",
+            "name": "number_average",
+            "request": "launch",
+            "mainClass": "number_average",
+            "projectName": "Java pratice_83307812"
+        },
+        {
+            "type": "java",
+            "name": "hollowpyramid",
+            "request": "launch",
+            "mainClass": "hollowpyramid",
+            "projectName": "Java pratice_83307812"
+        },
+        {
+            "type": "java",
+            "name": "diamond",
+            "request": "launch",
+            "mainClass": "diamond",
+            "projectName": "Java pratice_83307812"
+        },
+        {
+            "type": "java",
+            "name": "rhombus",
+            "request": "launch",
+            "mainClass": "rhombus",
+            "projectName": "Java pratice_83307812"
+        },
+        {
+            "type": "java",
+            "name": "firstpratice",
+            "request": "launch",
+            "mainClass": "firstpratice",
+            "projectName": "Java pratice_83307812"
+        },
+        {
+            "type": "java",
+            "name": "halfpyramid",
+            "request": "launch",
+            "mainClass": "halfpyramid",
+            "projectName": "Java pratice_83307812"
+        },
+        {
+            "type": "java",
+            "name": "hollowRectangle",
+            "request": "launch",
+            "mainClass": "hollowRectangle",
+            "projectName": "Java pratice_83307812"
+        },
+        {
+            "type": "java",
+            "name": "rectanglePattern",
+            "request": "launch",
+            "mainClass": "rectanglePattern",
+            "projectName": "Java pratice_83307812"
+        },
+        {
+            "type": "java",
+            "name": "dowhile",
+            "request": "launch",
+            "mainClass": "dowhile",
+            "projectName": "Java pratice_83307812"
+        },
+        {
+            "type": "java",
+            "name": "whileloop",
+            "request": "launch",
+            "mainClass": "whileloop",
+            "projectName": "Java pratice_83307812"
+        },
+        {
+            "type": "java",
+            "name": "forloop",
+            "request": "launch",
+            "mainClass": "forloop",
+            "projectName": "Java pratice_83307812"
+        },
+        {
+            "type": "java",
+            "name": "calculater",
+            "request": "launch",
+            "mainClass": "calculater",
+            "projectName": "Java pratice_83307812"
+        },
+        {
+            "type": "java",
+            "name": "input",
+            "request": "launch",
+            "mainClass": "input",
+            "projectName": "Java pratice_83307812"
+        },
+        {
+            "type": "java",
+            "name": "Run Current Java File",
+            "request": "launch",
+            "mainClass": "${fileBasenameNoExtension}",
+            "console": "integratedTerminal"
+        }
+    ]
+}
