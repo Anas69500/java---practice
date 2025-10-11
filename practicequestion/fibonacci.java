@@ -1,4 +1,4 @@
-package praticequestion;
+package practicequestion;
 
 import java.util.Scanner;
 public class fibonacci {

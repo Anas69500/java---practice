@@ -3,6 +3,76 @@
     "configurations": [
         {
             "type": "java",
+            "name": "userinput",
+            "request": "launch",
+            "mainClass": "stringpractice.userinput",
+            "projectName": "Java pratice_83307812"
+        },
+        {
+            "type": "java",
+            "name": "firststring",
+            "request": "launch",
+            "mainClass": "stringpractice.firststring",
+            "projectName": "Java pratice_83307812"
+        },
+        {
+            "type": "java",
+            "name": "findTwoDArrayValue",
+            "request": "launch",
+            "mainClass": "arraypractice.findTwoDArrayValue",
+            "projectName": "Java pratice_83307812"
+        },
+        {
+            "type": "java",
+            "name": "inputTwoDarray",
+            "request": "launch",
+            "mainClass": "arraypractice.inputTwoDarray",
+            "projectName": "Java pratice_83307812"
+        },
+        {
+            "type": "java",
+            "name": "twoDarray",
+            "request": "launch",
+            "mainClass": "arraypractice.twoDarray",
+            "projectName": "Java pratice_83307812"
+        },
+        {
+            "type": "java",
+            "name": "twoarray",
+            "request": "launch",
+            "mainClass": "arraypractice.twoarray",
+            "projectName": "Java pratice_83307812"
+        },
+        {
+            "type": "java",
+            "name": "arrayUserInput",
+            "request": "launch",
+            "mainClass": "arraypractice.arrayUserInput",
+            "projectName": "Java pratice_83307812"
+        },
+        {
+            "type": "java",
+            "name": "findnumberarr",
+            "request": "launch",
+            "mainClass": "arraypractice.findnumberarr",
+            "projectName": "Java pratice_83307812"
+        },
+        {
+            "type": "java",
+            "name": "firstarray",
+            "request": "launch",
+            "mainClass": "arraypractice.firstarray",
+            "projectName": "Java pratice_83307812"
+        },
+        {
+            "type": "java",
+            "name": "unlimitedCalculater",
+            "request": "launch",
+            "mainClass": "unlimitedCalculater",
+            "projectName": "Java pratice_83307812"
+        },
+        {
+            "type": "java",
             "name": "fibonacci",
             "request": "launch",
             "mainClass": "praticequestion.fibonacci",

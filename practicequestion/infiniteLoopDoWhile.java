@@ -1,4 +1,4 @@
-package praticequestion;
+package practicequestion;
 
 public class infiniteLoopDoWhile {
     public static void main(String[] args) {
