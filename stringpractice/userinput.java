@@ -20,6 +20,7 @@ public class userinput {
             //charAt function help to print character which match i value in String  
             System.out.println(name.charAt(i));
         }
+        sc.close();
     }
     
 }

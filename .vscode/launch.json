@@ -3,6 +3,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "countvowels",
+            "request": "launch",
+            "mainClass": "stringpractice.countvowels",
+            "projectName": "Java pratice_83307812"
+        },
+        {
+            "type": "java",
+            "name": "infinityCalculator",
+            "request": "launch",
+            "mainClass": "infinityCalculator",
+            "projectName": "Java pratice_83307812"
+        },
+        {
+            "type": "java",
+            "name": "reverseString",
+            "request": "launch",
+            "mainClass": "stringpractice.reverseString",
+            "projectName": "Java pratice_83307812"
+        },
+        {
+            "type": "java",
+            "name": "stringbuilder",
+            "request": "launch",
+            "mainClass": "stringpractice.stringbuilder",
+            "projectName": "Java pratice_83307812"
+        },
+        {
+            "type": "java",
+            "name": "subString",
+            "request": "launch",
+            "mainClass": "stringpractice.subString",
+            "projectName": "Java pratice_83307812"
+        },
+        {
+            "type": "java",
             "name": "userinput",
             "request": "launch",
             "mainClass": "stringpractice.userinput",

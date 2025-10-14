@@ -14,5 +14,11 @@ public class firststring {
         //output
         System.out.println(fullname);
 
+        //Convert to lowercase
+        System.out.println(fullname.toLowerCase());
+
+        //Convert to uppercase
+        System.out.println(fullname.toUpperCase());
+
     }
 }
