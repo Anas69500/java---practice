@@ -3,6 +3,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "rmSpecialChar",
+            "request": "launch",
+            "mainClass": "stringpractice.rmSpecialChar",
+            "projectName": "Java pratice_83307812"
+        },
+        {
+            "type": "java",
             "name": "countvowels",
             "request": "launch",
             "mainClass": "stringpractice.countvowels",
