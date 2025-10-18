@@ -3,6 +3,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "greaternumber",
+            "request": "launch",
+            "mainClass": "practicequestion.greaternumber",
+            "projectName": "Java pratice_83307812"
+        },
+        {
+            "type": "java",
+            "name": "checkingEligibleForVote",
+            "request": "launch",
+            "mainClass": "practicequestion.checkingEligibleForVote",
+            "projectName": "Java pratice_83307812"
+        },
+        {
+            "type": "java",
             "name": "rmSpecialChar",
             "request": "launch",
             "mainClass": "stringpractice.rmSpecialChar",

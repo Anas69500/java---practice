@@ -20,7 +20,7 @@ public class greaternumber {
         int a = sc.nextInt();
 
         //Second user input
-        System.out.print("Enter the first number: ");
+        System.out.print("Enter the second number: ");
         int b = sc.nextInt();
 
         //calling function
