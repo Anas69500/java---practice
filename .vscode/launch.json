@@ -3,6 +3,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "reverseNumber",
+            "request": "launch",
+            "mainClass": "practicequestion.reverseNumber",
+            "projectName": "Java pratice_83307812"
+        },
+        {
+            "type": "java",
+            "name": "sumOfDigit",
+            "request": "launch",
+            "mainClass": "practicequestion.sumOfDigit",
+            "projectName": "Java pratice_83307812"
+        },
+        {
+            "type": "java",
             "name": "greaternumber",
             "request": "launch",
             "mainClass": "practicequestion.greaternumber",
