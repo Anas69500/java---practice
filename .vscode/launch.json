@@ -3,6 +3,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "countEvenOddDigit",
+            "request": "launch",
+            "mainClass": "practicequestion.countEvenOddDigit",
+            "projectName": "Java pratice_83307812"
+        },
+        {
+            "type": "java",
             "name": "palindrome",
             "request": "launch",
             "mainClass": "practicequestion.palindrome",
