@@ -3,6 +3,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "palindrome",
+            "request": "launch",
+            "mainClass": "practicequestion.palindrome",
+            "projectName": "Java pratice_83307812"
+        },
+        {
+            "type": "java",
             "name": "reverseNumber",
             "request": "launch",
             "mainClass": "practicequestion.reverseNumber",
