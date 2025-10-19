@@ -17,7 +17,7 @@ public class palindrome {
         } else {
             System.out.println("This word is not palindrome");
         }
-
+        sc.close();
     }
     
 }

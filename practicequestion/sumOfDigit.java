@@ -14,6 +14,7 @@ public class sumOfDigit {
             sum += i;
         }
         System.out.println(sum);
+        sc.close();
         
     }
 }

@@ -26,6 +26,7 @@ public class reverseNumber {
                 System.out.print("please Enter a two digit number:");
             }
         }
+        sc.close();
         
     }
 }
