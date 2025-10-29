@@ -3,6 +3,48 @@
     "configurations": [
         {
             "type": "java",
+            "name": "factorial",
+            "request": "launch",
+            "mainClass": "practicequestion.factorial",
+            "projectName": "Java pratice_83307812"
+        },
+        {
+            "type": "java",
+            "name": "fibonacci",
+            "request": "launch",
+            "mainClass": "practicequestion.fibonacci",
+            "projectName": "Java pratice_83307812"
+        },
+        {
+            "type": "java",
+            "name": "facb",
+            "request": "launch",
+            "mainClass": "practicequestion.facb",
+            "projectName": "Java pratice_83307812"
+        },
+        {
+            "type": "java",
+            "name": "arrangeOnePosNeg",
+            "request": "launch",
+            "mainClass": "arraypractice.arrangeOnePosNeg",
+            "projectName": "Java pratice_83307812"
+        },
+        {
+            "type": "java",
+            "name": "arrangOnePosNeg",
+            "request": "launch",
+            "mainClass": "arraypractice.arrangOnePosNeg",
+            "projectName": "Java pratice_83307812"
+        },
+        {
+            "type": "java",
+            "name": "maxOfThree",
+            "request": "launch",
+            "mainClass": "practicequestion.maxOfThree",
+            "projectName": "Java pratice_83307812"
+        },
+        {
+            "type": "java",
             "name": "countEvenOddDigit",
             "request": "launch",
             "mainClass": "practicequestion.countEvenOddDigit",
