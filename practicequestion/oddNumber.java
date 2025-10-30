@@ -1,6 +1,9 @@
+// it will print odd number upto given number
+
 package practicequestion;
 
-import java.util.*;
+// import Scanner to take input from user
+import java.util.Scanner;
 
 public class oddNumber {
     public static void odd(int n) {

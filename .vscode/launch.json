@@ -3,6 +3,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "infiniteLoopDoWhile",
+            "request": "launch",
+            "mainClass": "practicequestion.infiniteLoopDoWhile",
+            "projectName": "Java pratice_83307812"
+        },
+        {
+            "type": "java",
             "name": "factorial",
             "request": "launch",
             "mainClass": "practicequestion.factorial",

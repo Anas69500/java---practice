@@ -1,5 +1,8 @@
+// it will check the given age is eligbile for vote or not
+
 package practicequestion;
 
+// import Scanner to take input from user
 import java.util.Scanner;
 public class checkingEligibleForVote {
     public static void Agechecking(int age) {

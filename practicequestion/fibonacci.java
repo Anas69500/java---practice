@@ -1,6 +1,10 @@
+// it will print fibonacci series upto given number
+
 package practicequestion;
 
+// import Scanner to take input from user
 import java.util.Scanner;
+
 public class fibonacci {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);

@@ -1,4 +1,8 @@
+// it will reverse a given number
+
 package practicequestion;
+
+// import Scanner to take input from user
 import java.util.Scanner;
 
 public class reverseNumber {

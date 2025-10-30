@@ -1,4 +1,8 @@
+// it will print sum of digit upto given number
+
 package practicequestion;
+
+// import Scanner to take input from user
 import java.util.Scanner;
 
 public class sumOfDigit {

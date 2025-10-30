@@ -1,6 +1,10 @@
+// it will print sum of even number upto given number
+
 package practicequestion;
 
+// import Scanner to take input from user
 import java.util.Scanner;
+
 public class sumOfEvenNumber {
     public static void evennumber(int n) {
         int sum = 0;

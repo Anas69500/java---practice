@@ -1,6 +1,10 @@
+// it will print x raised to the power of n of a given number
+
 package practicequestion;
 
+// import Scanner to take input from user
 import java.util.Scanner;
+
 public class xPowern {
     public static double powerresult(int x, int n) {
         double result = Math.pow(x, n);

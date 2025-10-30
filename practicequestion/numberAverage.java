@@ -1,6 +1,10 @@
+// it will print average of given three number 
+
 package practicequestion;
 
-import java.util.*;
+
+// import Scanner to take input from user
+import java.util.Scanner;
 
 public class numberAverage {
     public static int average(int a, int b, int c) {

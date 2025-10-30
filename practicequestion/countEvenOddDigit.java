@@ -1,4 +1,8 @@
+// it will count even and odd digit in a given number
+
 package practicequestion;
+
+// import Scanner to take input from user
 import java.util.Scanner;
 
 public class countEvenOddDigit {

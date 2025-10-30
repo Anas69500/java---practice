@@ -1,4 +1,8 @@
+// it will print factorial from 1 to given number
+
 package practicequestion;
+
+// import Scanner to take input from user
 import java.util.Scanner;
 
 public class factorial {

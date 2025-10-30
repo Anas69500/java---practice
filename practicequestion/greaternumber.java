@@ -1,6 +1,10 @@
+// it will check and print which one is greater than of a given number
+
 package practicequestion;
 
-import java.util.*;
+// import Scanner to take input from user
+import java.util.Scanner;
+
 public class greaternumber {
     public static void greater(int a,int b) {
         if (a > b) {

@@ -1,5 +1,8 @@
+// it will print maximum of given three number
+
 package practicequestion;
 
+// import Scanner to take input from user
 import java.util.Scanner;
 
 public class maxOfThree {

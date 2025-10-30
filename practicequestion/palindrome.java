@@ -1,4 +1,8 @@
+//Check the given string is palindrome or not
+
 package practicequestion;
+
+// import Scanner to take input from user
 import java.util.Scanner;
 
 public class palindrome {

@@ -1,6 +1,10 @@
+// it will print the circumference of a circle with a given radius
+
 package practicequestion;
 
+// import Scanner to take input from user
 import java.util.Scanner;
+
 public class circleCircumference {
     public static void circumference(double a) {
         double result = 2 * Math.PI * a; 

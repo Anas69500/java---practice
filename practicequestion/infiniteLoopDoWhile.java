@@ -1,3 +1,5 @@
+// this code run for infinite 
+
 package practicequestion;
 
 public class infiniteLoopDoWhile {
