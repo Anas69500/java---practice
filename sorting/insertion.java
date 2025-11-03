@@ -10,7 +10,7 @@ public class insertion {
 
             int j = i-1; // this variable is use to track sorted part in array
 
-            while (j >= 0 && current < arr[j]) {// checking j greater than to 0 and checking current variable less than to arr[j]
+            while (j >= 0 && current < arr[j]) {// checking j greater than to 0 for array value won't get in neagative index and checking current variable less than to arr[j]
                 arr[j+1] = arr[j];//and assign arr[j] value to arr[j+1]
                 j--;// and decresing j value -1 with post decrement
             }
