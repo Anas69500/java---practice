@@ -3,6 +3,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "insertion",
+            "request": "launch",
+            "mainClass": "sorting.insertion",
+            "projectName": "Java pratice_83307812"
+        },
+        {
+            "type": "java",
+            "name": "selection",
+            "request": "launch",
+            "mainClass": "sorting.selection",
+            "projectName": "Java pratice_83307812"
+        },
+        {
+            "type": "java",
+            "name": "bubble",
+            "request": "launch",
+            "mainClass": "sorting.bubble",
+            "projectName": "Java pratice_83307812"
+        },
+        {
+            "type": "java",
             "name": "infiniteLoopDoWhile",
             "request": "launch",
             "mainClass": "practicequestion.infiniteLoopDoWhile",
