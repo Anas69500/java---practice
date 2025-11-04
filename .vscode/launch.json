@@ -3,6 +3,83 @@
     "configurations": [
         {
             "type": "java",
+            "name": "copyC",
+            "request": "launch",
+            "mainClass": "OOPS.Constructor.copyC",
+            "projectName": "Java pratice_83307812"
+        },
+        {
+            "type": "java",
+            "name": "FirstClassAndObject",
+            "request": "launch",
+            "mainClass": "OOPS.FirstClassAndObject",
+            "projectName": "Java pratice_83307812"
+        },
+        {
+            "type": "java",
+            "name": "parameterized",
+            "request": "launch",
+            "mainClass": "OOPS.Constructor.parameterized",
+            "projectName": "Java pratice_83307812"
+        },
+        {
+            "type": "java",
+            "name": "defaultC",
+            "request": "launch",
+            "mainClass": "OOPS.Constructor.defaultC",
+            "projectName": "Java pratice_83307812"
+        },
+        {
+            "type": "java",
+            "name": "copy",
+            "request": "launch",
+            "mainClass": "copy",
+            "projectName": "Java pratice_83307812"
+        },
+        {
+            "type": "java",
+            "name": "copy",
+            "request": "launch",
+            "mainClass": "oops.Constructor.copy",
+            "projectName": "Java pratice_83307812"
+        },
+        {
+            "type": "java",
+            "name": "parameterized",
+            "request": "launch",
+            "mainClass": "oops.Constructor.parameterized",
+            "projectName": "Java pratice_83307812"
+        },
+        {
+            "type": "java",
+            "name": "defaultC",
+            "request": "launch",
+            "mainClass": "oops.Constructor.defaultC",
+            "projectName": "Java pratice_83307812"
+        },
+        {
+            "type": "java",
+            "name": "Student",
+            "request": "launch",
+            "mainClass": "oops.Constructor.Student",
+            "projectName": "Java pratice_83307812"
+        },
+        {
+            "type": "java",
+            "name": "NonParameter",
+            "request": "launch",
+            "mainClass": "oops.Constructor.NonParameter",
+            "projectName": "Java pratice_83307812"
+        },
+        {
+            "type": "java",
+            "name": "firstClassAndObject",
+            "request": "launch",
+            "mainClass": "oops.firstClassAndObject",
+            "projectName": "Java pratice_83307812"
+        },
+        {
+            "type": "java",
             "name": "insertion",
             "request": "launch",
             "mainClass": "sorting.insertion",
